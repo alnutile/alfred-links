@@ -16,6 +16,7 @@ Alfred Nutile is a builder and AI automation consultant operating as DailyAi.Stu
 - [LinkedIn](https://www.linkedin.com/in/alfrednutile/): Professional profile — let's connect.
 - [GitHub](https://github.com/alnutile): Code & open source.
 - [Resume](https://docs.google.com/document/d/1JRc9jLAdoXF-3E9mcJilwRdZapgdHv39GfjQdjccC4c/edit?usp=drivesdk): Experience & background.
+- [Resume (PDF)](https://docs.google.com/document/d/1JRc9jLAdoXF-3E9mcJilwRdZapgdHv39GfjQdjccC4c/export?format=pdf): Download the latest version as a PDF.
 
 ## Contact
 
